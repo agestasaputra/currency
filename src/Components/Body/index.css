@@ -1,0 +1,16 @@
+.wrapper {
+    background: #454d55;
+}
+
+.text-title {
+    text-align: center;
+    /* color: red; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.input-title {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 15px;
+}
