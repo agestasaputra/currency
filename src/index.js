@@ -3,11 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.css'
-// import App from './App'
-import App2 from './App2'
-// import Navigation from './Components/Navigation/'
+import App from './App'
+// import Navigati./Appm './Components/Navigation/'
 
-ReactDOM.render(<App2 className='body'/>, document.getElementById('root'));
+ReactDOM.render(<App className='body'/>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
